@@ -24,7 +24,7 @@ margin-bottom: 50px;
 color:rgb(215, 6, 223);
 }
 textarea{
-    width:500px;
+    width:70%;
     height: 200px;
     background: rgb(185, 108, 35);
     color:white;
@@ -42,7 +42,7 @@ textarea::placeholder{
     color:white;
 }
 .row{
-    width:500px;
+    width:80%;
     display:flex;
     align-items:center;
     gap:20px;
